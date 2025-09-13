@@ -16,6 +16,7 @@ Produced messages are formatted as JSON objects like this:
 }
 ```
 
+Run using `uv run main.py`
 
 - - -
 
