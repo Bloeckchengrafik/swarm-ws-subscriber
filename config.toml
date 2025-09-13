@@ -1,0 +1,17 @@
+[server]
+host = "localhost"
+port = 8080
+
+[connection]
+serial = "/dev/ttyUSB0"
+
+[subscribers]
+webalias1 = "ftSwarm400.M1"
+webalias2 = "ftSwarm400.M2"
+webalias3 = "ftSwarm400.M3"
+webalias4 = "ftSwarm400.M4"
+webalias5 = "ftSwarm400.M5"
+webalias6 = "ftSwarm400.M6"
+webalias7 = "ftSwarm400.M7"
+webalias8 = "ftSwarm400.M8"
+webalias9 = "ftSwarm400.M9"
